@@ -1,0 +1,16 @@
+a1 = 10
+b2 = 20
+ans = a1 + b2
+print(a1,"+",b2,"=",ans)
+ans = a1 - b2
+print(a1,"-",b2,"=",ans)
+ans = a1 * b2;
+print(a1,"*",b2,"=",ans);
+ans = a1 / b2
+print(a1,"/",b2,"=",ans)
+ans = a1 // b2
+print(a1,"//",b2,"=",ans)#無條件捨去
+a3 = 12
+b4 = 9
+ans = a3 % b4
+print(a3,"%",b4,"=",ans)
